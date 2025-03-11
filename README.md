@@ -1,11 +1,12 @@
 # moje-portfolio
-Jest to moje osobiste Portfolio na którym pokazuje swój kod oraz strony jakie tworze
+Jest to moje osobiste Portfolio na którym pokazuje swój kod oraz strony jak i modele 3D jaie tworze
 
 #Technologie
 -HTML
 -CSS
 -PHP
 -JS(java script)
+-Blender 3D (projekty)
 
 #Instrukcja
 kod można skopiowac lub go pobrac i odpalić plik z rozszerzeniem .html
